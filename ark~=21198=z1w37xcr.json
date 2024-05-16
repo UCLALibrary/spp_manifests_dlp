@@ -3,6 +3,7 @@
   "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w37xcr/manifest",
   "@type" : "sc:Manifest",
   "label" : "Syriac NF Fragment 74",
+  "viewingDirection": "right-to-left",
   "metadata" : [ {
     "label" : "Title",
     "value" : "Syriac NF Fragment 74"
