@@ -3,6 +3,7 @@
   "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18c9x9s/manifest",
   "@type" : "sc:Manifest",
   "label" : "CPA NF Fragment 16",
+  "viewingDirection": "right-to-left",
   "metadata" : [ {
     "label" : "Title",
     "value" : "CPA NF Fragment 16"

@@ -3,6 +3,7 @@
   "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16m44r0/manifest",
   "@type" : "sc:Manifest",
   "label" : "Arabic 588",
+  "viewingDirection": "right-to-left",
   "metadata" : [ {
     "label" : "Title",
     "value" : "Arabic 588"
