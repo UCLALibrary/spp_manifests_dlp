@@ -78,7 +78,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jh3mz5",
             "@type" : "dctypes:Image",
-            "label" : "128r-135v K-17-001 KTK pseudo avgUV-VIS",
+            "label" : "128r-135r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
