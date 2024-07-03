@@ -35,7 +35,7 @@
     "canvases" : [ {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-1",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_123r_K-51-001",
+      "label" : "123r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m10fg/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -53,7 +53,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m10fg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_PSH_color",
+            "label" : "123r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -66,7 +66,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1086wtf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_KTK_pseudo_avgUV-VIS",
+            "label" : "123r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -78,7 +78,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g7458t",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_KTK_pseudo_WBUVB47-VIS",
+            "label" : "123r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -90,7 +90,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16q2nrg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_KTK_pseudo_WBUVG58-VIS",
+            "label" : "123r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -102,7 +102,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19g6c9c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_KTK_raking_RE870IR-RS870IR",
+            "label" : "123r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -114,7 +114,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cc1r68",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123r_K-51-001_KTK_txratio_TX940IR-MB940IR",
+            "label" : "123r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -130,7 +130,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-2",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_123v_K-51-002",
+      "label" : "123v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3knw/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -148,7 +148,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3knw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_PSH_color",
+            "label" : "123v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -161,7 +161,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029h1n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_KTK_pseudo_avgUV-VIS",
+            "label" : "123v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -173,7 +173,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g45frr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_KTK_pseudo_WBUVB47-VIS",
+            "label" : "123v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -185,7 +185,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16m3z9q",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_KTK_pseudo_WBUVG58-VIS",
+            "label" : "123v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -197,7 +197,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19c7nx3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_KTK_raking_RE870IR-RS870IR",
+            "label" : "123v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -209,7 +209,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c54bcm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_123v_K-51-002_KTK_txratio_TX940IR-MB940IR",
+            "label" : "123v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -225,7 +225,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-3",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_130r_K-51-003",
+      "label" : "130r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1794w64/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -243,7 +243,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1794w64",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_PSH_color",
+            "label" : "130r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -256,7 +256,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1000smg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_KTK_pseudo_avgUV-VIS",
+            "label" : "130r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -268,7 +268,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fx8203",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_KTK_pseudo_WBUVB47-VIS",
+            "label" : "130r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -280,7 +280,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6jg2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_KTK_pseudo_WBUVG58-VIS",
+            "label" : "130r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -292,7 +292,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz196082z",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_KTK_raking_RE870IR-RS870IR",
+            "label" : "130r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -304,7 +304,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c25mxf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130r_K-51-003_KTK_txratio_TX940IR-MB940IR",
+            "label" : "130r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -320,7 +320,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-4",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_130v_K-51-004",
+      "label" : "130v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1737gfc/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -338,7 +338,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1737gfc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_PSH_color",
+            "label" : "130v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -351,7 +351,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zs3n1z",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_KTK_pseudo_avgUV-VIS",
+            "label" : "130v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -363,7 +363,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft9bhg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_KTK_pseudo_WBUVB47-VIS",
+            "label" : "130v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -375,7 +375,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1697v2r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_KTK_pseudo_WBUVG58-VIS",
+            "label" : "130v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -387,7 +387,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1931jpp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_KTK_raking_RE870IR-RS870IR",
+            "label" : "130v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -399,7 +399,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bv875s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_130v_K-51-004_KTK_txratio_TX940IR-MB940IR",
+            "label" : "130v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -415,7 +415,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-5",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_131r_K-51-005",
+      "label" : "131r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1708rzr/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -433,7 +433,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1708rzr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_PSH_color",
+            "label" : "131r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -446,7 +446,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4xnp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_KTK_pseudo_avgUV-VIS",
+            "label" : "131r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -458,7 +458,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fn1xqf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_KTK_pseudo_WBUVB47-VIS",
+            "label" : "131r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -470,7 +470,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640f7n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_KTK_pseudo_WBUVG58-VIS",
+            "label" : "131r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -482,7 +482,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18w44t8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_KTK_raking_RE870IR-RS870IR",
+            "label" : "131r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -494,7 +494,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1br9hp5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131r_K-51-005_KTK_txratio_TX940IR-MB940IR",
+            "label" : "131r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -510,7 +510,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-6",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_131v_K-51-006",
+      "label" : "131v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16t1c6n/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -528,7 +528,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16t1c6n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_PSH_color",
+            "label" : "131v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -541,7 +541,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zg7hr4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_KTK_pseudo_avgUV-VIS",
+            "label" : "131v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -553,7 +553,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fj379h",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_KTK_pseudo_WBUVB47-VIS",
+            "label" : "131v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -565,7 +565,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1611qtx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_KTK_pseudo_WBUVG58-VIS",
+            "label" : "131v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -577,7 +577,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18s5fdz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_KTK_raking_RE870IR-RS870IR",
+            "label" : "131v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -589,7 +589,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bk23wh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_131v_K-51-006_KTK_txratio_TX940IR-MB940IR",
+            "label" : "131v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -605,7 +605,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-7",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_138r_K-51-007",
+      "label" : "138r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16q2nsx/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -623,7 +623,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16q2nsx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_PSH_color",
+            "label" : "138r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -636,7 +636,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zc8tdq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_KTK_pseudo_avgUV-VIS",
+            "label" : "138r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -648,7 +648,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fb5tgg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_KTK_pseudo_WBUVB47-VIS",
+            "label" : "138r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -660,7 +660,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t4b1t",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_KTK_pseudo_WBUVG58-VIS",
+            "label" : "138r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -672,7 +672,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k81mr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_KTK_raking_RE870IR-RS870IR",
+            "label" : "138r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -684,7 +684,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bg3dj3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138r_K-51-007_KTK_txratio_TX940IR-MB940IR",
+            "label" : "138r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -700,7 +700,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-8",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_138v_K-51-008",
+      "label" : "138v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16h5804/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -718,7 +718,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16h5804",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_PSH_color",
+            "label" : "138v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -731,7 +731,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z61dkm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_KTK_pseudo_avgUV-VIS",
+            "label" : "138v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -743,7 +743,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f77430",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_KTK_pseudo_WBUVB47-VIS",
+            "label" : "138v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -755,7 +755,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15q5mm3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_KTK_pseudo_WBUVG58-VIS",
+            "label" : "138v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -767,7 +767,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18g9b6f",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_KTK_raking_RE870IR-RS870IR",
+            "label" : "138v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -779,7 +779,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b860p0",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_138v_K-51-008_KTK_txratio_TX940IR-MB940IR",
+            "label" : "138v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -795,7 +795,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-9",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_139r_K-51-048",
+      "label" : "139r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6jhh/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -813,7 +813,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6jhh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_PSH_color",
+            "label" : "139r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -826,7 +826,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32q6r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_KTK_pseudo_avgUV-VIS",
+            "label" : "139r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -838,7 +838,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f19q7h",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_KTK_pseudo_WBUVB47-VIS",
+            "label" : "139r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -850,7 +850,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h86sf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_KTK_pseudo_WBUVG58-VIS",
+            "label" : "139r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -862,7 +862,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1891xdd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_KTK_raking_RE870IR-RS870IR",
+            "label" : "139r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -874,7 +874,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b5798p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139r_K-51-048_KTK_txratio_TX940IR-MB940IR",
+            "label" : "139r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -890,7 +890,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-10",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_139v_K-51-049",
+      "label" : "139v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16694s6/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -908,7 +908,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16694s6",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_PSH_color",
+            "label" : "139v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -921,7 +921,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xw599w",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_KTK_pseudo_avgUV-VIS",
+            "label" : "139v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -933,7 +933,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dz10vv",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_KTK_pseudo_WBUVB47-VIS",
+            "label" : "139v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -945,7 +945,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d9hc4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_KTK_pseudo_WBUVG58-VIS",
+            "label" : "139v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -957,7 +957,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18636zm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_KTK_raking_RE870IR-RS870IR",
+            "label" : "139v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -969,7 +969,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9wfb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_139v_K-51-049_KTK_txratio_TX940IR-MB940IR",
+            "label" : "139v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -985,7 +985,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-11",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_140r_K-51-050",
+      "label" : "140r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640f83/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1003,7 +1003,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640f83",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_PSH_color",
+            "label" : "140r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1016,7 +1016,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6kz2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_KTK_pseudo_avgUV-VIS",
+            "label" : "140r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1028,7 +1028,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dr3m17",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_KTK_pseudo_WBUVB47-VIS",
+            "label" : "140r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1040,7 +1040,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15723kg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_KTK_pseudo_WBUVG58-VIS",
+            "label" : "140r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1052,7 +1052,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1805t5f",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_KTK_raking_RE870IR-RS870IR",
+            "label" : "140r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1064,7 +1064,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19w162d",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140r_K-51-050_KTK_txratio_TX940IR-MB940IR",
+            "label" : "140r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1080,7 +1080,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-12",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_140v_K-51-051",
+      "label" : "140v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15x31gk/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1098,7 +1098,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15x31gk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_PSH_color",
+            "label" : "140v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1111,7 +1111,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xk962x",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_KTK_pseudo_avgUV-VIS",
+            "label" : "140v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1123,7 +1123,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dn4wmh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_KTK_pseudo_WBUVB47-VIS",
+            "label" : "140v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1135,7 +1135,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1543d4q",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_KTK_pseudo_WBUVG58-VIS",
+            "label" : "140v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1147,7 +1147,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17w73qb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_KTK_raking_RE870IR-RS870IR",
+            "label" : "140v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1159,7 +1159,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19p3s5g",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_140v_K-51-051_KTK_txratio_TX940IR-MB940IR",
+            "label" : "140v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1175,7 +1175,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-13",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_141r_K-51-052",
+      "label" : "141r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t4b28/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1193,7 +1193,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t4b28",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_PSH_color",
+            "label" : "141r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1206,7 +1206,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0gp6",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_KTK_pseudo_avgUV-VIS",
+            "label" : "141r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1218,7 +1218,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1df7grd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_KTK_pseudo_WBUVB47-VIS",
+            "label" : "141r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1230,7 +1230,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x60cn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_KTK_pseudo_WBUVG58-VIS",
+            "label" : "141r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1242,7 +1242,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17p9q02",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_KTK_raking_RE870IR-RS870IR",
+            "label" : "141r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1254,7 +1254,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19k52t1",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141r_K-51-052_KTK_txratio_TX940IR-MB940IR",
+            "label" : "141r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1270,7 +1270,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-14",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_141v_K-51-053",
+      "label" : "141v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6x8p/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1288,7 +1288,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6x8p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_PSH_color",
+            "label" : "141v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1301,7 +1301,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x932t3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_KTK_pseudo_avgUV-VIS",
+            "label" : "141v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1313,7 +1313,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1db8sff",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_KTK_pseudo_WBUVB47-VIS",
+            "label" : "141v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1325,7 +1325,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t78xg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_KTK_pseudo_WBUVG58-VIS",
+            "label" : "141v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1337,7 +1337,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m10gx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_KTK_raking_RE870IR-RS870IR",
+            "label" : "141v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1349,7 +1349,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19c7nzj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_141v_K-51-053_KTK_txratio_TX940IR-MB940IR",
+            "label" : "141v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1365,7 +1365,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-15",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_142r_K-51-054",
+      "label" : "142r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h86tw/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1383,7 +1383,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h86tw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_PSH_color",
+            "label" : "142r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1396,7 +1396,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64ch4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_KTK_pseudo_avgUV-VIS",
+            "label" : "142r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1408,7 +1408,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d51ch0",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_KTK_pseudo_WBUVB47-VIS",
+            "label" : "142r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1420,7 +1420,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9w5r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_KTK_pseudo_WBUVG58-VIS",
+            "label" : "142r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1432,7 +1432,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3kqs",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_KTK_raking_RE870IR-RS870IR",
+            "label" : "142r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1444,7 +1444,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988zkp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142r_K-51-054_KTK_txratio_TX940IR-MB940IR",
+            "label" : "142r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1460,7 +1460,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-16",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_142v_K-51-055",
+      "label" : "142v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15b0t18/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1478,7 +1478,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15b0t18",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_PSH_color",
+            "label" : "142v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1491,7 +1491,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x06zkr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_KTK_pseudo_avgUV-VIS",
+            "label" : "142v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1503,7 +1503,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d22p61",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_KTK_pseudo_WBUVB47-VIS",
+            "label" : "142v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1515,7 +1515,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14j15nm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_KTK_pseudo_WBUVG58-VIS",
+            "label" : "142v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1527,7 +1527,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1794w7k",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_KTK_raking_RE870IR-RS870IR",
+            "label" : "142v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1539,7 +1539,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1931jq4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_142v_K-51-055_KTK_txratio_TX940IR-MB940IR",
+            "label" : "142v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1555,7 +1555,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-17",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_143r_K-51-009",
+      "label" : "143r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15723mx/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1573,7 +1573,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15723mx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_PSH_color",
+            "label" : "143r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1586,7 +1586,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww888v",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_KTK_pseudo_avgUV-VIS",
+            "label" : "143r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1598,7 +1598,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cv5895",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_KTK_pseudo_WBUVB47-VIS",
+            "label" : "143r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1610,7 +1610,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3rzc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_KTK_pseudo_WBUVG58-VIS",
+            "label" : "143r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1622,7 +1622,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1737gh8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_KTK_raking_RE870IR-RS870IR",
+            "label" : "143r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1634,7 +1634,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1902vcq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143r_K-51-009_KTK_txratio_TX940IR-MB940IR",
+            "label" : "143r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1650,7 +1650,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-18",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_143v_K-51-010",
+      "label" : "143v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514prf/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1668,7 +1668,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514prf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_PSH_color",
+            "label" : "143v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1681,7 +1681,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wq0vb1",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_KTK_pseudo_avgUV-VIS",
+            "label" : "143v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1693,7 +1693,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cr6jzb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_KTK_pseudo_WBUVB47-VIS",
+            "label" : "143v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1705,7 +1705,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14752dn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_KTK_pseudo_WBUVG58-VIS",
+            "label" : "143v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1717,7 +1717,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1708s0m",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_KTK_raking_RE870IR-RS870IR",
+            "label" : "143v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1729,7 +1729,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18s5ffd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_143v_K-51-010_KTK_txratio_TX940IR-MB940IR",
+            "label" : "143v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1745,7 +1745,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-19",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_144r_K-51-011",
+      "label" : "144r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x60d3/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1763,7 +1763,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x60d3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_PSH_color",
+            "label" : "144r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1776,7 +1776,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wh3fk8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_KTK_pseudo_avgUV-VIS",
+            "label" : "144r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1788,7 +1788,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cj951r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_KTK_pseudo_WBUVB47-VIS",
+            "label" : "144r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1800,7 +1800,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1417npz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_KTK_pseudo_WBUVG58-VIS",
+            "label" : "144r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1812,7 +1812,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16t1c8j",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_KTK_raking_RE870IR-RS870IR",
+            "label" : "144r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1824,7 +1824,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18p6r4f",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144r_K-51-011_KTK_txratio_TX940IR-MB940IR",
+            "label" : "144r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1840,7 +1840,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-20",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_144v_K-51-012",
+      "label" : "144v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8kh5/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1858,7 +1858,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8kh5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_PSH_color",
+            "label" : "144v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1871,7 +1871,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wd4r4h",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_KTK_pseudo_avgUV-VIS",
+            "label" : "144v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1883,7 +1883,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cg0fpg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_KTK_pseudo_WBUVB47-VIS",
+            "label" : "144v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1895,7 +1895,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13x8z6f",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_KTK_pseudo_WBUVG58-VIS",
+            "label" : "144v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1907,7 +1907,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16q2ntc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_KTK_raking_RE870IR-RS870IR",
+            "label" : "144v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1919,7 +1919,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18g9b7w",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_144v_K-51-012_KTK_txratio_TX940IR-MB940IR",
+            "label" : "144v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1935,7 +1935,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-21",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_145r_K-51-013",
+      "label" : "145r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9w66/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -1953,7 +1953,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9w66",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_PSH_color",
+            "label" : "145r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1966,7 +1966,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w67bcr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_KTK_pseudo_avgUV-VIS",
+            "label" : "145r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1978,7 +1978,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c831vt",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_KTK_pseudo_WBUVB47-VIS",
+            "label" : "145r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -1990,7 +1990,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13r1jgp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_KTK_pseudo_WBUVG58-VIS",
+            "label" : "145r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2002,7 +2002,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16h5821",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_KTK_raking_RE870IR-RS870IR",
+            "label" : "145r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2014,7 +2014,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18d0mv5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145r_K-51-013_KTK_txratio_TX940IR-MB940IR",
+            "label" : "145r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2030,7 +2030,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-22",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_145v_K-51-014",
+      "label" : "145v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2g8r/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2048,7 +2048,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2g8r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_PSH_color",
+            "label" : "145v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2061,7 +2061,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w38mw4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_KTK_pseudo_avgUV-VIS",
+            "label" : "145v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2073,7 +2073,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c54bfh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_KTK_pseudo_WBUVB47-VIS",
+            "label" : "145v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2085,7 +2085,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n2tzm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_KTK_pseudo_WBUVG58-VIS",
+            "label" : "145v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2097,7 +2097,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6jjz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_KTK_raking_RE870IR-RS870IR",
+            "label" : "145v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2109,7 +2109,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz186370g",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_145v_K-51-014_KTK_txratio_TX940IR-MB940IR",
+            "label" : "145v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2125,7 +2125,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-23",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_146r_K-51-015",
+      "label" : "146r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3s07/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2143,7 +2143,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3s07",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_PSH_color",
+            "label" : "146r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2156,7 +2156,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx175g",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_KTK_pseudo_avgUV-VIS",
+            "label" : "146r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2168,7 +2168,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bz6xm5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_KTK_pseudo_WBUVB47-VIS",
+            "label" : "146r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2180,7 +2180,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5f85",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_KTK_pseudo_WBUVG58-VIS",
+            "label" : "146r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2192,7 +2192,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16694v3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_KTK_raking_RE870IR-RS870IR",
+            "label" : "146r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2204,7 +2204,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1834hnn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146r_K-51-015_KTK_txratio_TX940IR-MB940IR",
+            "label" : "146r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2220,7 +2220,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-24",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_146v_K-51-016",
+      "label" : "146v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1446c1s/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2238,7 +2238,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1446c1s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_PSH_color",
+            "label" : "146v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2251,7 +2251,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vt2hpv",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_KTK_pseudo_avgUV-VIS",
+            "label" : "146v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2263,7 +2263,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bv877p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_KTK_pseudo_WBUVB47-VIS",
+            "label" : "146v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2275,7 +2275,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13b6qqn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_KTK_pseudo_WBUVG58-VIS",
+            "label" : "146v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2287,7 +2287,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640f9j",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_KTK_raking_RE870IR-RS870IR",
+            "label" : "146v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2299,7 +2299,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17w73rs",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_146v_K-51-016_KTK_txratio_TX940IR-MB940IR",
+            "label" : "146v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2315,7 +2315,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-25",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_196r_K-51-017",
+      "label" : "196r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1417nqd/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2333,7 +2333,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1417nqd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_PSH_color",
+            "label" : "196r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2346,7 +2346,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vm53wn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_KTK_pseudo_avgUV-VIS",
+            "label" : "196r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2358,7 +2358,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bp0tb9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_KTK_pseudo_WBUVB47-VIS",
+            "label" : "196r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2370,7 +2370,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13499zw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_KTK_pseudo_WBUVG58-VIS",
+            "label" : "196r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2382,7 +2382,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15x31jg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_KTK_raking_RE870IR-RS870IR",
+            "label" : "196r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2394,7 +2394,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17s8dbg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196r_K-51-017_KTK_txratio_TX940IR-MB940IR",
+            "label" : "196r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2410,7 +2410,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-26",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_196v_K-51-018",
+      "label" : "196v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v07sn/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2428,7 +2428,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v07sn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_PSH_color",
+            "label" : "196v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2441,7 +2441,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vh6dfw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_KTK_pseudo_avgUV-VIS",
+            "label" : "196v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2453,7 +2453,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bk23zd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_KTK_pseudo_WBUVB47-VIS",
+            "label" : "196v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2465,7 +2465,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1320mhp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_KTK_pseudo_WBUVG58-VIS",
+            "label" : "196v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2477,7 +2477,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t4b3q",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_KTK_raking_RE870IR-RS870IR",
+            "label" : "196v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2489,7 +2489,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m10hc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_196v_K-51-018_KTK_txratio_TX940IR-MB940IR",
+            "label" : "196v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2505,7 +2505,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-27",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_197r_K-51-019",
+      "label" : "197r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13r1jh4/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2523,7 +2523,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13r1jh4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_PSH_color",
+            "label" : "197r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2536,7 +2536,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v990qk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_KTK_pseudo_avgUV-VIS",
+            "label" : "197r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2548,7 +2548,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bc4q3b",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_KTK_pseudo_WBUVB47-VIS",
+            "label" : "197r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2560,7 +2560,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v36q5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_KTK_pseudo_WBUVG58-VIS",
+            "label" : "197r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2572,7 +2572,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6xbk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_KTK_raking_RE870IR-RS870IR",
+            "label" : "197r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2584,7 +2584,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17h295z",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197r_K-51-019_KTK_txratio_TX940IR-MB940IR",
+            "label" : "197r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2600,7 +2600,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-28",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_197v_K-51-020",
+      "label" : "197v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13j44jp/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2618,7 +2618,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13j44jp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_PSH_color",
+            "label" : "197v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2631,7 +2631,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v70951",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_KTK_pseudo_avgUV-VIS",
+            "label" : "197v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2643,7 +2643,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b860rw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_KTK_pseudo_WBUVB47-VIS",
+            "label" : "197v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2655,7 +2655,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12r4h9v",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_KTK_pseudo_WBUVG58-VIS",
+            "label" : "197v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2667,7 +2667,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h86vb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_KTK_raking_RE870IR-RS870IR",
+            "label" : "197v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2679,7 +2679,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1794w81",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_197v_K-51-020_KTK_txratio_TX940IR-MB940IR",
+            "label" : "197v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2695,7 +2695,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-29",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_198r_K-51-021",
+      "label" : "198r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5f9m/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2713,7 +2713,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5f9m",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_PSH_color",
+            "label" : "198r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2726,7 +2726,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v12wgs",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_KTK_pseudo_avgUV-VIS",
+            "label" : "198r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2738,7 +2738,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b28kvz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_KTK_pseudo_WBUVB47-VIS",
+            "label" : "198r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2750,7 +2750,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j73fr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_KTK_pseudo_WBUVG58-VIS",
+            "label" : "198r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2762,7 +2762,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15b0t35",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_KTK_raking_RE870IR-RS870IR",
+            "label" : "198r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2774,7 +2774,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17665xk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198r_K-51-021_KTK_txratio_TX940IR-MB940IR",
+            "label" : "198r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2790,7 +2790,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-30",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_198v_K-51-022",
+      "label" : "198v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz137819q/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2808,7 +2808,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz137819q",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_PSH_color",
+            "label" : "198v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2821,7 +2821,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tx45zs",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_KTK_pseudo_avgUV-VIS",
+            "label" : "198v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2833,7 +2833,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9wh7",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_KTK_pseudo_WBUVB47-VIS",
+            "label" : "198v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2845,7 +2845,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12f8d4s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_KTK_pseudo_WBUVG58-VIS",
+            "label" : "198v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2857,7 +2857,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15723nc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_KTK_raking_RE870IR-RS870IR",
+            "label" : "198v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2869,7 +2869,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1708s12",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_198v_K-51-022_KTK_txratio_TX940IR-MB940IR",
+            "label" : "198v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2885,7 +2885,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-31",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_199r_K-51-023",
+      "label" : "199r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1349b0r/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2903,7 +2903,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1349b0r",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_PSH_color",
+            "label" : "199r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2916,7 +2916,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tq6s62",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_KTK_pseudo_avgUV-VIS",
+            "label" : "199r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2928,7 +2928,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19s2gm7",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_KTK_pseudo_WBUVB47-VIS",
+            "label" : "199r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2940,7 +2940,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz128106b",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_KTK_pseudo_WBUVG58-VIS",
+            "label" : "199r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2952,7 +2952,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514ptb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_KTK_raking_RE870IR-RS870IR",
+            "label" : "199r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2964,7 +2964,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16x02nd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199r_K-51-023_KTK_txratio_TX940IR-MB940IR",
+            "label" : "199r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -2980,7 +2980,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-32",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_199v_K-51-024",
+      "label" : "199v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12z1x4h/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -2998,7 +2998,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12z1x4h",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_PSH_color",
+            "label" : "199v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3011,7 +3011,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tm82qt",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_KTK_pseudo_avgUV-VIS",
+            "label" : "199v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3023,7 +3023,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19p3s7c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_KTK_pseudo_WBUVB47-VIS",
+            "label" : "199v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3035,7 +3035,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12528vh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_KTK_pseudo_WBUVG58-VIS",
+            "label" : "199v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3047,7 +3047,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x60fj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_KTK_raking_RE870IR-RS870IR",
+            "label" : "199v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3059,7 +3059,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16q2nvt",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_199v_K-51-024_KTK_txratio_TX940IR-MB940IR",
+            "label" : "199v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3075,7 +3075,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-33",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_200r_K-51-025",
+      "label" : "200r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v36rm/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3093,7 +3093,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v36rm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_PSH_color",
+            "label" : "200r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3106,7 +3106,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tf0p03",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_KTK_pseudo_avgUV-VIS",
+            "label" : "200r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3118,7 +3118,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19g6cdq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_KTK_pseudo_WBUVB47-VIS",
+            "label" : "200r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3130,7 +3130,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4w1k",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_KTK_pseudo_WBUVG58-VIS",
+            "label" : "200r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3142,7 +3142,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8kk2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_KTK_raking_RE870IR-RS870IR",
+            "label" : "200r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3154,7 +3154,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16m3zd2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200r_K-51-025_KTK_txratio_TX940IR-MB940IR",
+            "label" : "200r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3170,7 +3170,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-34",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_200v_K-51-026",
+      "label" : "200v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5svp/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3188,7 +3188,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5svp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_PSH_color",
+            "label" : "200v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3201,7 +3201,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tb1zjx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_KTK_pseudo_avgUV-VIS",
+            "label" : "200v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3213,7 +3213,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19c7p1v",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_KTK_pseudo_WBUVB47-VIS",
+            "label" : "200v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3225,7 +3225,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11v65m7",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_KTK_pseudo_WBUVG58-VIS",
+            "label" : "200v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3237,7 +3237,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9w7n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_KTK_raking_RE870IR-RS870IR",
+            "label" : "200v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3249,7 +3249,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6jkd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_200v_K-51-026_KTK_txratio_TX940IR-MB940IR",
+            "label" : "200v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3265,7 +3265,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-35",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_201r_K-51-027",
+      "label" : "201r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j73g6/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3283,7 +3283,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j73g6",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_PSH_color",
+            "label" : "201r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3296,7 +3296,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1t44jq8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_KTK_pseudo_avgUV-VIS",
+            "label" : "201r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3308,7 +3308,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1960859",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_KTK_pseudo_WBUVB47-VIS",
+            "label" : "201r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3320,7 +3320,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8rrr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_KTK_pseudo_WBUVG58-VIS",
+            "label" : "201r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3332,7 +3332,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2gbn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_KTK_raking_RE870IR-RS870IR",
+            "label" : "201r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3344,7 +3344,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1697v53",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201r_K-51-027_KTK_txratio_TX940IR-MB940IR",
+            "label" : "201r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3360,7 +3360,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-36",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_201v_K-51-028",
+      "label" : "201v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12b9pmq/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3378,7 +3378,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12b9pmq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_PSH_color",
+            "label" : "201v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3391,7 +3391,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1t15v9z",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_KTK_pseudo_avgUV-VIS",
+            "label" : "201v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3403,7 +3403,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1931js1",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_KTK_pseudo_WBUVB47-VIS",
+            "label" : "201v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3415,7 +3415,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11k02fq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_KTK_pseudo_WBUVG58-VIS",
+            "label" : "201v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3427,7 +3427,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3s1p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_KTK_raking_RE870IR-RS870IR",
+            "label" : "201v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3439,7 +3439,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640fb0",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_201v_K-51-028_KTK_txratio_TX940IR-MB940IR",
+            "label" : "201v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3455,7 +3455,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-37",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_202r_K-51-029",
+      "label" : "202r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz128107s/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3473,7 +3473,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz128107s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_PSH_color",
+            "label" : "202r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3486,7 +3486,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1st8ffj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_KTK_pseudo_avgUV-VIS",
+            "label" : "202r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3498,7 +3498,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18w44xm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_KTK_pseudo_WBUVB47-VIS",
+            "label" : "202r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3510,7 +3510,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2ngw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_KTK_pseudo_WBUVG58-VIS",
+            "label" : "202r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3522,7 +3522,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1446c3p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_KTK_raking_RE870IR-RS870IR",
+            "label" : "202r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3534,7 +3534,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1611qx8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202r_K-51-029_KTK_txratio_TX940IR-MB940IR",
+            "label" : "202r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3550,7 +3550,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-38",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_202v_K-51-030",
+      "label" : "202v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1223kc9/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3568,7 +3568,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1223kc9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_PSH_color",
+            "label" : "202v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3581,7 +3581,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sq9r2p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_KTK_pseudo_avgUV-VIS",
+            "label" : "202v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3593,7 +3593,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18s5fh9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_KTK_pseudo_WBUVB47-VIS",
+            "label" : "202v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3605,7 +3605,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1183z6c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_KTK_pseudo_WBUVG58-VIS",
+            "label" : "202v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3617,7 +3617,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1417nrv",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_KTK_raking_RE870IR-RS870IR",
+            "label" : "202v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3629,7 +3629,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t4b45",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_202v_K-51-030_KTK_txratio_TX940IR-MB940IR",
+            "label" : "202v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3645,7 +3645,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-39",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_203r_K-51-031",
+      "label" : "203r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4w21/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3663,7 +3663,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4w21",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_PSH_color",
+            "label" : "203r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3676,7 +3676,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sj2b7k",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_KTK_pseudo_avgUV-VIS",
+            "label" : "203r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3688,7 +3688,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k81q3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_KTK_pseudo_WBUVB47-VIS",
+            "label" : "203r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3700,7 +3700,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1126j8c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_KTK_pseudo_WBUVG58-VIS",
+            "label" : "203r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3712,7 +3712,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v07vj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_KTK_raking_RE870IR-RS870IR",
+            "label" : "203r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3724,7 +3724,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15q5mqf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203r_K-51-031_KTK_txratio_TX940IR-MB940IR",
+            "label" : "203r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3740,7 +3740,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-40",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_203v_K-51-032",
+      "label" : "203v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11r7g41/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3758,7 +3758,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11r7g41",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_PSH_color",
+            "label" : "203v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3771,7 +3771,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sf3mv9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_KTK_pseudo_avgUV-VIS",
+            "label" : "203v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3783,7 +3783,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18g9b9s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_KTK_pseudo_WBUVB47-VIS",
+            "label" : "203v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3795,7 +3795,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10z7v0j",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_KTK_pseudo_WBUVG58-VIS",
+            "label" : "203v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3807,7 +3807,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13r1jjk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_KTK_raking_RE870IR-RS870IR",
+            "label" : "203v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3819,7 +3819,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h86ws",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_203v_K-51-032_KTK_txratio_TX940IR-MB940IR",
+            "label" : "203v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3835,7 +3835,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-41",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_204r_K-51-033",
+      "label" : "204r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8rs6/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3853,7 +3853,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8rs6",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_PSH_color",
+            "label" : "204r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3866,7 +3866,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1s766zr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_KTK_pseudo_avgUV-VIS",
+            "label" : "204r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3878,7 +3878,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1891xhr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_KTK_pseudo_WBUVB47-VIS",
+            "label" : "204r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3890,7 +3890,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10s0f06",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_KTK_pseudo_WBUVG58-VIS",
+            "label" : "204r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3902,7 +3902,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13j44mk",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_KTK_raking_RE870IR-RS870IR",
+            "label" : "204r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3914,7 +3914,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d9hgg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204r_K-51-033_KTK_txratio_TX940IR-MB940IR",
+            "label" : "204r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3930,7 +3930,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-42",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_204v_K-51-034",
+      "label" : "204v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11g1bw6/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -3948,7 +3948,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11g1bw6",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_PSH_color",
+            "label" : "204v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3961,7 +3961,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1s47hp7",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_KTK_pseudo_avgUV-VIS",
+            "label" : "204v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3973,7 +3973,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz186372c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_KTK_pseudo_WBUVB47-VIS",
+            "label" : "204v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3985,7 +3985,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10p1qq8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_KTK_pseudo_WBUVG58-VIS",
+            "label" : "204v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -3997,7 +3997,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5fb2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_KTK_raking_RE870IR-RS870IR",
+            "label" : "204v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4009,7 +4009,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15723pt",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_204v_K-51-034_KTK_txratio_TX940IR-MB940IR",
+            "label" : "204v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4025,7 +4025,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-43",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_205r_K-51-035",
+      "label" : "205r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2nhb/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4043,7 +4043,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2nhb",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_PSH_color",
+            "label" : "205r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4056,7 +4056,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rz03q1",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_KTK_pseudo_avgUV-VIS",
+            "label" : "205r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4068,7 +4068,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1805t8s",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_KTK_pseudo_WBUVB47-VIS",
+            "label" : "205r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4080,7 +4080,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10g49rt",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_KTK_pseudo_WBUVG58-VIS",
+            "label" : "205r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4092,7 +4092,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13781b5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_KTK_raking_RE870IR-RS870IR",
+            "label" : "205r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4104,7 +4104,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514pw7",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205r_K-51-035_KTK_txratio_TX940IR-MB940IR",
+            "label" : "205r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4120,7 +4120,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-44",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_205v_K-51-036",
+      "label" : "205v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11557pp/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4138,7 +4138,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11557pp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_PSH_color",
+            "label" : "205v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4151,7 +4151,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rv1dd2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_KTK_pseudo_avgUV-VIS",
+            "label" : "205v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4163,7 +4163,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17w73tp",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_KTK_pseudo_WBUVB47-VIS",
+            "label" : "205v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4175,7 +4175,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10c5mg9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_KTK_pseudo_WBUVG58-VIS",
+            "label" : "205v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4187,7 +4187,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1349b2n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_KTK_raking_RE870IR-RS870IR",
+            "label" : "205v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4199,7 +4199,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x60g0",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_205v_K-51-036_KTK_txratio_TX940IR-MB940IR",
+            "label" : "205v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4215,7 +4215,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-45",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_206r_K-51-037",
+      "label" : "206r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1126j9t/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4233,7 +4233,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1126j9t",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_PSH_color",
+            "label" : "206r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4246,7 +4246,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rn40hh",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_KTK_pseudo_avgUV-VIS",
+            "label" : "206r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4258,7 +4258,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17p9q3d",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_KTK_pseudo_WBUVB47-VIS",
+            "label" : "206r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4270,7 +4270,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10586j9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_KTK_pseudo_WBUVG58-VIS",
+            "label" : "206r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4282,7 +4282,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12z1x5z",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_KTK_raking_RE870IR-RS870IR",
+            "label" : "206r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4294,7 +4294,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8knz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206r_K-51-037_KTK_txratio_TX940IR-MB940IR",
+            "label" : "206r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4310,7 +4310,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-46",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_206v_K-51-038",
+      "label" : "206v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v94fd/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4328,7 +4328,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v94fd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_PSH_color",
+            "label" : "206v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4341,7 +4341,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rj596j",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_KTK_pseudo_avgUV-VIS",
+            "label" : "206v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4353,7 +4353,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m10k8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_KTK_pseudo_WBUVB47-VIS",
+            "label" : "206v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4365,7 +4365,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029h7b",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_KTK_pseudo_WBUVG58-VIS",
+            "label" : "206v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4377,7 +4377,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v36th",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_KTK_raking_RE870IR-RS870IR",
+            "label" : "206v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4389,7 +4389,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9w83",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_206v_K-51-038_KTK_txratio_TX940IR-MB940IR",
+            "label" : "206v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4405,7 +4405,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-47",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_207r_K-51-039",
+      "label" : "207r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10s0f1n/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4423,7 +4423,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10s0f1n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_PSH_color",
+            "label" : "207r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4436,7 +4436,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb7w85",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_KTK_pseudo_avgUV-VIS",
+            "label" : "207r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4448,7 +4448,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3kt4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_KTK_pseudo_WBUVB47-VIS",
+            "label" : "207r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4460,7 +4460,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw2bjm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_KTK_pseudo_WBUVG58-VIS",
+            "label" : "207r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4472,7 +4472,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5sw4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_KTK_raking_RE870IR-RS870IR",
+            "label" : "207r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4484,7 +4484,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2gdj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207r_K-51-039_KTK_txratio_TX940IR-MB940IR",
+            "label" : "207r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4500,7 +4500,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-48",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_207v_K-51-040",
+      "label" : "207v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10k318w/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4518,7 +4518,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10k318w",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_PSH_color",
+            "label" : "207v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4531,7 +4531,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1r795xq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_KTK_pseudo_avgUV-VIS",
+            "label" : "207v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4543,7 +4543,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1794wbx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_KTK_pseudo_WBUVB47-VIS",
+            "label" : "207v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4555,7 +4555,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zs3n7n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_KTK_pseudo_WBUVG58-VIS",
+            "label" : "207v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4567,7 +4567,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j73j3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_KTK_raking_RE870IR-RS870IR",
+            "label" : "207v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4579,7 +4579,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3s24",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_207v_K-51-040_KTK_txratio_TX940IR-MB940IR",
+            "label" : "207v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4595,7 +4595,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-49",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_208r_K-51-041",
+      "label" : "208r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10g49s8/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4613,7 +4613,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10g49s8",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_PSH_color",
+            "label" : "208r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4626,7 +4626,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1r21s26",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_KTK_pseudo_avgUV-VIS",
+            "label" : "208r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4638,7 +4638,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1737gmm",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_KTK_pseudo_WBUVB47-VIS",
+            "label" : "208r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4650,7 +4650,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk679n",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_KTK_pseudo_WBUVG58-VIS",
+            "label" : "208r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4662,7 +4662,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12b9pn5",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_KTK_raking_RE870IR-RS870IR",
+            "label" : "208r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4674,7 +4674,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1446c5k",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208r_K-51-041_KTK_txratio_TX940IR-MB940IR",
+            "label" : "208r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4690,7 +4690,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-50",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_208v_K-51-042",
+      "label" : "208v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1086x03/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4708,7 +4708,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1086x03",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_PSH_color",
+            "label" : "208v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4721,7 +4721,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz32nj",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_KTK_pseudo_avgUV-VIS",
+            "label" : "208v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4733,7 +4733,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16x02rr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_KTK_pseudo_WBUVB47-VIS",
+            "label" : "208v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4745,7 +4745,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zg7hxc",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_KTK_pseudo_WBUVG58-VIS",
+            "label" : "208v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4757,7 +4757,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz128109p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_KTK_raking_RE870IR-RS870IR",
+            "label" : "208v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4769,7 +4769,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1417ns9",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_208v_K-51-042_KTK_txratio_TX940IR-MB940IR",
+            "label" : "208v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4785,7 +4785,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-51",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_209r_K-51-043",
+      "label" : "209r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10586kr/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4803,7 +4803,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10586kr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_PSH_color",
+            "label" : "209r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4816,7 +4816,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qr5nth",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_KTK_pseudo_avgUV-VIS",
+            "label" : "209r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4828,7 +4828,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16t1ccw",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_KTK_pseudo_WBUVB47-VIS",
+            "label" : "209r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4840,7 +4840,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z90427",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_KTK_pseudo_WBUVG58-VIS",
+            "label" : "209r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4852,7 +4852,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1223kdr",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_KTK_raking_RE870IR-RS870IR",
+            "label" : "209r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4864,7 +4864,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v07xf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209r_K-51-043_KTK_txratio_TX940IR-MB940IR",
+            "label" : "209r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4880,7 +4880,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-52",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_209v_K-51-044",
+      "label" : "209v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1000ssq/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4898,7 +4898,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1000ssq",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_PSH_color",
+            "label" : "209v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4911,7 +4911,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qn6zg3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_KTK_pseudo_avgUV-VIS",
+            "label" : "209v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4923,7 +4923,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16m3zhd",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_KTK_pseudo_WBUVB47-VIS",
+            "label" : "209v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4935,7 +4935,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z61drv",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_KTK_pseudo_WBUVG58-VIS",
+            "label" : "209v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4947,7 +4947,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4w4x",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_KTK_raking_RE870IR-RS870IR",
+            "label" : "209v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4959,7 +4959,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13r1jk1",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_209v_K-51-044_KTK_txratio_TX940IR-MB940IR",
+            "label" : "209v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -4975,7 +4975,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-53",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_210r_K-51-045",
+      "label" : "210r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw2bk2/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -4993,7 +4993,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw2bk2",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_PSH_color",
+            "label" : "210r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5006,7 +5006,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qf9jj3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_KTK_pseudo_avgUV-VIS",
+            "label" : "210r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5018,7 +5018,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16h585c",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_KTK_pseudo_WBUVB47-VIS",
+            "label" : "210r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5030,7 +5030,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z040tv",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_KTK_pseudo_WBUVG58-VIS",
+            "label" : "210r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5042,7 +5042,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11r7g5g",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_KTK_raking_RE870IR-RS870IR",
+            "label" : "210r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5054,7 +5054,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13j44pg",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210r_K-51-045_KTK_txratio_TX940IR-MB940IR",
+            "label" : "210r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5070,7 +5070,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-54",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_210v_K-51-046",
+      "label" : "210v",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4xtx/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -5088,7 +5088,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4xtx",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_PSH_color",
+            "label" : "210v PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5101,7 +5101,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0v67",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_KTK_pseudo_avgUV-VIS",
+            "label" : "210v KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5113,7 +5113,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1697v8f",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_KTK_pseudo_WBUVB47-VIS",
+            "label" : "210v KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5125,7 +5125,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xw59g4",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_KTK_pseudo_WBUVG58-VIS",
+            "label" : "210v KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5137,7 +5137,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8rv3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_KTK_raking_RE870IR-RS870IR",
+            "label" : "210v KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5149,7 +5149,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5fch",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_210v_K-51-046_KTK_txratio_TX940IR-MB940IR",
+            "label" : "210v KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5165,7 +5165,7 @@
     }, {
       "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h13zxq/canvas/canvas-55",
       "@type" : "sc:Canvas",
-      "label" : "Geo-34_r_K-51-047",
+      "label" : "r",
       "thumbnail" : {
         "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh79rz/0,1022,6132,6132/150,150/0/default.jpg",
         "@type" : "dctypes:Image",
@@ -5183,7 +5183,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh79rz",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_PSH_color",
+            "label" : "r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5196,7 +5196,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q53f9p",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_KTK_pseudo_avgUV-VIS",
+            "label" : "r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5208,7 +5208,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16694zf",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_KTK_pseudo_WBUVB47-VIS",
+            "label" : "r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5220,7 +5220,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xp7wmn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_KTK_pseudo_WBUVG58-VIS",
+            "label" : "r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5232,7 +5232,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11g1bxn",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_KTK_raking_RE870IR-RS870IR",
+            "label" : "r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -5244,7 +5244,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk67b3",
             "@type" : "dctypes:Image",
-            "label" : "Geo-34_r_K-51-047_KTK_txratio_TX940IR-MB940IR",
+            "label" : "r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
