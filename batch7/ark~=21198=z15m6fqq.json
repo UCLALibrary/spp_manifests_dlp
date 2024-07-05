@@ -3,6 +3,7 @@
   "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6fqq/manifest",
   "@type" : "sc:Manifest",
   "label" : "Arabic NF 68",
+  "viewingDirection": "right-to-left",
   "metadata" : [ {
     "label" : "Title",
     "value" : "Arabic NF 68"

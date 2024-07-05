@@ -3,6 +3,7 @@
   "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3457/manifest",
   "@type" : "sc:Manifest",
   "label" : "Syriac NF 56",
+  "viewingDirection": "right-to-left",
   "metadata" : [ {
     "label" : "Title",
     "value" : "Syriac NF 56"
