@@ -53,7 +53,7 @@
           "default" : {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ms45s9",
             "@type" : "dctypes:Image",
-            "label" : "PSH color",
+            "label" : "216r PSH color",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -66,7 +66,7 @@
           "item" : [ {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19k4q8b",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo avgUV-MB780IR",
+            "label" : "216r KTK pseudo avgUV-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -78,7 +78,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t3zh5",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo avgUV-VIS",
+            "label" : "216r KTK pseudo avgUV-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -90,7 +90,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12236tk",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVB47-MB780IR",
+            "label" : "216r KTK pseudo WBUVB47-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -102,7 +102,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x92qb9",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVB47-VIS",
+            "label" : "216r KTK pseudo WBUVB47-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -114,7 +114,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sj1zn1",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVG58-MB780IR",
+            "label" : "216r KTK pseudo WBUVG58-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -126,7 +126,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ns16xp",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVG58-VIS",
+            "label" : "216r KTK pseudo WBUVG58-VIS",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -138,7 +138,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1j10g6p",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVO22-MB780IR",
+            "label" : "216r KTK pseudo WBUVO22-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -150,7 +150,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1db8dwq",
             "@type" : "dctypes:Image",
-            "label" : "KTK pseudo WBUVUVP-MB780IR",
+            "label" : "216r KTK pseudo WBUVUVP-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -162,7 +162,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k7p4z",
             "@type" : "dctypes:Image",
-            "label" : "KTK raking RE870IR-RS870IR",
+            "label" : "216r KTK raking RE870IR-RS870IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -174,7 +174,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6xd7",
             "@type" : "dctypes:Image",
-            "label" : "KTK sharpie avgUV-MB780IR",
+            "label" : "216r KTK sharpie avgUV-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -186,7 +186,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11265p6",
             "@type" : "dctypes:Image",
-            "label" : "KTK sharpie WBUVB47-MB780IR",
+            "label" : "216r KTK sharpie WBUVB47-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -198,7 +198,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w95p7c",
             "@type" : "dctypes:Image",
-            "label" : "KTK sharpie WBUVUVP-MB780IR",
+            "label" : "216r KTK sharpie WBUVUVP-MB780IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
@@ -210,7 +210,7 @@
           }, {
             "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rj4xhn",
             "@type" : "dctypes:Image",
-            "label" : "KTK txratio TX940IR-MB940IR",
+            "label" : "216r KTK txratio TX940IR-MB940IR",
             "format" : "image/jpeg",
             "height" : 8176,
             "width" : 6132,
