@@ -1,0 +1,1558 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/manifest",
+  "@type" : "sc:Manifest",
+  "label" : "Syriac NF 66",
+  "viewingDirection": "right-to-left",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : "Syriac NF 66"
+  }, {
+    "label" : "Overtext Language",
+    "value" : "Syriac"
+  }, {
+    "label" : "Overtext Content",
+    "value" : "Liturgical fragment"
+  }, {
+    "label" : "Undertext Language(s)",
+    "value" : "Syriac"
+  }, {
+    "label" : "Date",
+    "value" : "12th c. CE"
+  }, {
+    "label" : "Extent",
+    "value" : "Not listed"
+  }, {
+    "label" : "Form",
+    "value" : "Quire"
+  } ],
+  "thumbnail" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0svx/0,1022,6132,6132/150,150/0/default.jpg",
+  "license" : "See \"Terms of Use\" on this website",
+  "logo" : "https://sinai-images.library.ucla.edu/images/logos/iiif_logo.png",
+  "sequences" : [ {
+    "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/sequence/sequence-0",
+    "@type" : "sc:Sequence",
+    "label" : "ark:/21198/z1vx0z4b",
+    "canvases" : [ {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-1",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_001r_K-50-001",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4whg/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4whg",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zp4whg",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0svx",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0svx",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6hc9",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d6hc9",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xw585p",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xw585p",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8qgr",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8qgr",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5d1m",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001r_K-50-001_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13f5d1m",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-1"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-2",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_001v_K-50-002",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk661n/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk661n",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk661n",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q823gf",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q823gf",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16693k3",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16693k3",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6jsd",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6jsd",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11k015q",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11k015q",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13b6phj",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_001v_K-50-002_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13b6phj",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-2"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-3",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_002r_K-50-003",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zc8s9z/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zc8s9z",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zc8s9z",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q24pmz",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q24pmz",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640d4w",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1640d4w",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xk94x9",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xk94x9",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2m7b",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2m7b",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13498rs",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002r_K-50-003_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13498rs",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-3"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-4",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_002v_K-50-004",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z902rc/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z902rc",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z902rc",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pz6075",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pz6075",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15x309x",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15x309x",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0fhj",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0fhj",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1183wxz",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1183wxz",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1320k84",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_002v_K-50-004_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1320k84",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-4"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-5",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_003r_K-50-005",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32p30/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32p30",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32p30",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pr8k9s",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pr8k9s",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t48w6",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15t48w6",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x931pw",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x931pw",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1126h1t",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1126h1t",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v35h2",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003r_K-50-005_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v35h2",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-5"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-6",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_003v_K-50-006",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z03zh1/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z03zh1",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z03zh1",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pn9w35",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pn9w35",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6w31",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15m6w31",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64bbg",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64bbg",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10z7sq4",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10z7sq4",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12r4g29",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_003v_K-50-006_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12r4g29",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-6"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-7",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_004r_K-50-007",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6jtv/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6jtv",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xs6jtv",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pg2g2c",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pg2g2c",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h85n7",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15h85n7",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x06xd3",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x06xd3",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10s0csp",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10s0csp",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7266",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004r_K-50-007_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7266",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-7"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-8",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_004v_K-50-008",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xp7v96/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xp7v96",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xp7v96",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pc3rtw",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pc3rtw",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15b0rv6",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15b0rv6",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww8736",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww8736",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10p1pdt",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10p1pdt",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12f8bwt",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_004v_K-50-008_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12f8bwt",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-8"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-9",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_005r_K-50-009",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0fj0/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0fj0",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xh0fj0",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p56bvf",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p56bvf",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15722f8",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15722f8",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wq0t5c",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wq0t5c",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10g48jq",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10g48jq",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1280xz0",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005r_K-50-009_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1280xz0",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-9"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-10",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_005v_K-50-010",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xd1r2s/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-10",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xd1r2s",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1xd1r2s",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p27nkx",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p27nkx",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514nm7",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1514nm7",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wm23tx",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wm23tx",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10c5k5v",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10c5k5v",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12527mz",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_005v_K-50-010_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12527mz",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-10"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-11",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_006r_K-50-011",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64bcx/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-11",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64bcx",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x64bcx",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nw07mq",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nw07mq",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x5z6m",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14x5z6m",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wd4px0",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wd4px0",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10585b6",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10585b6",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4tsm",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006r_K-50-011_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11z4tsm",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-11"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-12",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_006v_K-50-012",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x35mvv/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-12",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x35mvv",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1x35mvv",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ns1jcn",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ns1jcn",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8jcz",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q8jcz",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w960md",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w960md",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029fxg",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029fxg",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11v64d4",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_006v_K-50-012_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11v64d4",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-12"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-13",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_007r_K-50-013",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww874n/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-13",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww874n",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ww874n",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nk44d6",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nk44d6",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9v03",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9v03",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w38kp1",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w38kp1",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw2992",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw2992",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8qh6",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007r_K-50-013_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8qh6",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-13"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-14",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_007v_K-50-014",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ws9hn1/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-14",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ws9hn1",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ws9hn1",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng5f37",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng5f37",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2f33",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f2f33",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w09wbm",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w09wbm",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zs3kxs",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zs3kxs",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11k017m",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_007v_K-50-014_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11k017m",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-14"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-15",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_008r_K-50-015",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wm23vc/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-15",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wm23vc",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wm23vc",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1n88157",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1n88157",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3qsq",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3qsq",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vt2ggr",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vt2ggr",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk6623",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk6623",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2m8s",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008r_K-50-015_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2m8s",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-15"
+      } ]
+    }, {
+      "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-16",
+      "@type" : "sc:Canvas",
+      "label" : "SyrNF-66_008v_K-50-016",
+      "thumbnail" : {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wh3df2/0,1022,6132,6132/150,150/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 150,
+        "width" : 150
+      },
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/imageanno/imageanno-16",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@type" : "oa:Choice",
+          "default" : {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wh3df2",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_PSH_color",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1wh3df2",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          },
+          "item" : [ {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1n599vv",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_KTK_pseudo_avgUV-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1n599vv",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14469vq",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_KTK_pseudo_WBUVB47-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14469vq",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vq3s3w",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_KTK_pseudo_WBUVG58-VIS",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vq3s3w",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zg7gnc",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_KTK_raking_RE870IR-RS870IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zg7gnc",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          }, {
+            "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1183x08",
+            "@type" : "dctypes:Image",
+            "label" : "SyrNF-66_008v_K-50-016_KTK_txratio_TX940IR-MB940IR",
+            "format" : "image/jpeg",
+            "height" : 8176,
+            "width" : 6132,
+            "service" : {
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "@id" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1183x08",
+              "profile" : "http://iiif.io/api/image/2/level0.json"
+            }
+          } ]
+        },
+        "on" : "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1vx0z4b/canvas/canvas-16"
+      } ]
+    } ]
+  } ]
+}
