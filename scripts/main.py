@@ -2,12 +2,11 @@ import pandas as pd, json, sys, numpy as np, os
 
 df = pd.read_csv("csv/file_names_to_remove.csv")
 df["Status"] = ""
-manifest_files = df["Manifest File"].drop_duplicates()
+manifest_files = df["Manifest_File"].drop_duplicates()
 
-for row in manifest_files:
-    path_to_file = f"manifest-files/{row}"
-    files_to_remove = df.loc[df["Manifest File"] == row]["File name cleanup"]
-
+for row in manifest_files[:2]:
+    path_to_file = f"{row}"
+    files_to_remove = df.loc[df["Manifest_File"] == row]["File_name_cleanup"]
     with open(path_to_file, 'r') as f:
         j = json.load(f)
 
@@ -15,9 +14,12 @@ for row in manifest_files:
         for canvas in j["sequences"][0]["canvases"]:
             items = canvas["images"][0]["resource"]["item"]
             for i in range(len(items)-1):
-                if (items[i]["label"] in files_to_remove):
+                #print(items[i]["label"])
+                label = items[i]["label"]
+                if (label in files_to_remove.values):
                     del items[i]
-                    print(df.loc[(df["Manifest File"] == row) & (df["File name cleanup"] == items[i]["label"])])
+                    row_index = df.query("Manifest_File == @row and File_name_cleanup == @label").index[0]
+                    df.loc[row_index, "Status"] = "Success"
         # you would replace the following line with saving the file using the same file name
         json.dump(j, f, indent=2)
 
