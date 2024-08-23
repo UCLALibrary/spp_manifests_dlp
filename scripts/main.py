@@ -4,7 +4,7 @@ df = pd.read_csv("csv/file_names_to_remove.csv")
 df["Status"] = ""
 manifest_files = df["Manifest_File"].drop_duplicates()
 
-for row in manifest_files[0:2]:
+for row in manifest_files:
     path_to_file = f"{row}"
     files_to_remove = df.loc[df["Manifest_File"] == row]["File_name_cleanup"]
     with open(path_to_file, 'r') as f:
